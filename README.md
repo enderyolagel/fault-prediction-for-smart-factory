@@ -1,4 +1,4 @@
-# fault-prediction-for-smart-factory
+# Fault Prediction for Smart Factory
 - Developed a forecasting model for anomaly detection and fault prediction in a manufacturing process.
 
 - The Dataset: SECOM Data Set from UCI Machine Learning Repository
